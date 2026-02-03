@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\bin\Debug\net9.0\exercice16.exe
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\bin\Debug\net9.0\exercice16.deps.json
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\bin\Debug\net9.0\exercice16.runtimeconfig.json
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\bin\Debug\net9.0\exercice16.dll
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\bin\Debug\net9.0\exercice16.pdb
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.AssemblyInfo.cs
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.sourcelink.json
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.dll
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\refint\exercice16.dll
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.pdb
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\exercice16.genruntimeconfig.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\exercice16\exercice16\obj\Debug\net9.0\ref\exercice16.dll
