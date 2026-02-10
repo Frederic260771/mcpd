@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\bin\Debug\net9.0\Demorecap.exe
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\bin\Debug\net9.0\Demorecap.deps.json
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\bin\Debug\net9.0\Demorecap.runtimeconfig.json
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\bin\Debug\net9.0\Demorecap.dll
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\bin\Debug\net9.0\Demorecap.pdb
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.AssemblyInfo.cs
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.sourcelink.json
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.dll
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\refint\Demorecap.dll
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.pdb
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\Demorecap.genruntimeconfig.cache
+C:\Users\userprf\Desktop\mcpd\Demorecap\Demorecap\obj\Debug\net9.0\ref\Demorecap.dll

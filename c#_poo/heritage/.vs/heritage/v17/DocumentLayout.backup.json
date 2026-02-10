@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\heritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA91CB1-0D9A-47DB-8D19-9ED3091761A8}|heritage\\heritage.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\heritage\\heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA91CB1-0D9A-47DB-8D19-9ED3091761A8}|heritage\\heritage.csproj|solutionrelative:heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\heritage\\heritage\\Program.cs",
+              "RelativeDocumentMoniker": "heritage\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\heritage\\heritage\\Program.cs",
+              "RelativeToolTip": "heritage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:15:32.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

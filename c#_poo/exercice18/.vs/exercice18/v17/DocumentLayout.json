@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\exercice18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|solutionrelative:exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|solutionrelative:exercice18\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|solutionrelative:exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2D5F991-FFD8-48C6-A517-A38CA786827F}|exercice18\\exercice18.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Livre.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\Livre.cs",
               "RelativeDocumentMoniker": "exercice18\\classes\\Livre.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\Livre.cs",
               "RelativeToolTip": "exercice18\\classes\\Livre.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T13:25:27.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Bibliotheque.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\Bibliotheque.cs",
               "RelativeDocumentMoniker": "exercice18\\classes\\Bibliotheque.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\exercice18\\exercice18\\classes\\Bibliotheque.cs",
               "RelativeToolTip": "exercice18\\classes\\Bibliotheque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T13:16:45.842Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "exercice18\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:15:50.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:15:50.891Z"
             }
           ]
         }
