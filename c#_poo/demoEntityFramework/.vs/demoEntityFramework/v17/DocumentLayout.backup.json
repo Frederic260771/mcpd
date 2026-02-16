@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F44D4F9-2AD3-46AD-96CD-BF65ECC2C53D}|demoEntityFramework\\demoEntityFramework.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\demoentityframework\\demoentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F44D4F9-2AD3-46AD-96CD-BF65ECC2C53D}|demoEntityFramework\\demoEntityFramework.csproj|solutionrelative:demoentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Migrations\\20260210134849_InitPersonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:demoEntityFramework\\Migrations\\20260210134849_InitPersonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F44D4F9-2AD3-46AD-96CD-BF65ECC2C53D}|demoEntityFramework\\demoEntityFramework.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\demoentityframework\\demoentityframework\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F44D4F9-2AD3-46AD-96CD-BF65ECC2C53D}|demoEntityFramework\\demoEntityFramework.csproj|solutionrelative:demoentityframework\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F44D4F9-2AD3-46AD-96CD-BF65ECC2C53D}|demoEntityFramework\\demoEntityFramework.csproj|c:\\users\\userprf\\desktop\\mcpd\\c#_poo\\demoentityframework\\demoentityframework\\dbmanager\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F44D4F9-2AD3-46AD-96CD-BF65ECC2C53D}|demoEntityFramework\\demoEntityFramework.csproj|solutionrelative:demoentityframework\\dbmanager\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260210134849_InitPersonne.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Migrations\\20260210134849_InitPersonne.cs",
+              "RelativeDocumentMoniker": "demoEntityFramework\\Migrations\\20260210134849_InitPersonne.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Migrations\\20260210134849_InitPersonne.cs",
+              "RelativeToolTip": "demoEntityFramework\\Migrations\\20260210134849_InitPersonne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:48:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Model\\Personne.cs",
+              "RelativeDocumentMoniker": "demoEntityFramework\\Model\\Personne.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Model\\Personne.cs",
+              "RelativeToolTip": "demoEntityFramework\\Model\\Personne.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:01:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\DbManager\\AppDbContex.cs",
+              "RelativeDocumentMoniker": "demoEntityFramework\\DbManager\\AppDbContex.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\DbManager\\AppDbContex.cs",
+              "RelativeToolTip": "demoEntityFramework\\DbManager\\AppDbContex.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:56:49.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "demoEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\mcpd\\c#_poo\\demoEntityFramework\\demoEntityFramework\\Program.cs*",
+              "RelativeToolTip": "demoEntityFramework\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:41:58.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
