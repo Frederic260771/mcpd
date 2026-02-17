@@ -1,0 +1,43 @@
+﻿@{
+   
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Display Index - Exercice 3 </title>
+</head>
+<body>
+
+<p>Nom : @ViewData["prenom"]</p>
+<p>Age: @ViewData["age"]</p>
+<p>Statut :
+@if(ViewData["age"]<=18)
+{
+<span>Majeur</span>
+else
+
+<span> Mineur</span>
+
+
+
+
+}
+
+</p>
+
+
+
+    <main>
+   
+
+
+
+
+
+
+   
+    </main>
+</body>
+</html>
