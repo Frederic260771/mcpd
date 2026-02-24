@@ -1,0 +1,10 @@
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.csproj.AssemblyReference.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.AssemblyInfo.cs
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.RazorAssemblyInfo.cache
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.RazorAssemblyInfo.cs
+C:\Users\userprf\Desktop\mcpd\c#_poo\Recette\Recette\obj\Debug\net9.0\Recette.sourcelink.json
